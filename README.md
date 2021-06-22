@@ -1,6 +1,8 @@
-# step-detection-workshop
+# Step detection workshop
 
 A tutorial on the step detection task, using convolutional sparse coding.
+
+The tutorial is in the notebook `step-detection-workshop.ipynb`.
 
 To run the notebook, you will need to install the following packages:
 
